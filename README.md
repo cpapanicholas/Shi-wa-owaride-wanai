@@ -1,7 +1,8 @@
   # Shi-Wa-Owaride-Wanai 
+
   
-  ## Description
-  This project is a back end for an e-commerce site.  It will use Express.js API and configure it to use sequelize to interact witha MySQL database.
+## Description
+This project is a back end for an e-commerce site.  It will use Express.js API and configure it to use sequelize to interact witha MySQL database.
 
 ## Acceptance Criteria
   AS A manager at an internet retail company
